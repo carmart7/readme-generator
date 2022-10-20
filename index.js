@@ -23,6 +23,7 @@ const questions = [
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
     let fileText = `## ${data.title}\n`
+                    + `${data.license}\n` 
                     + `# Table of Contents\n` 
                     + `1. [Description](#description)\n` 
                     + `2. [Installation](#installation)\n` 
