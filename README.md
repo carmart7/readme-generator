@@ -4,7 +4,7 @@
 
 This command line application allows the user to create a high quality readme with ease. The inquirer and file system modules are the 
 
-![Application Demonstration](./assets/video/readme-generator-walkthrough.mp4)
+https://user-images.githubusercontent.com/50060256/197293945-1d953ea4-ea1a-4a71-a247-8fcde7542c2a.mp4
 
 ## Technologies Used
 
